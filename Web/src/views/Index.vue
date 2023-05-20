@@ -1,7 +1,5 @@
 <template>
-  <div class="App">
-    <h1>娃哈哈</h1>
-  </div>
+  <div class="index"></div>
 </template>
 
 <script>
