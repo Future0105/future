@@ -42,31 +42,31 @@ export default {
   box-sizing: border-box;
   .xin {
     margin: 0 auto;
-    width: 100vw;
+    width: 100%;
     .box {
-      margin-left: 40vw;
+      margin-left: 40%;
       .num {
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 2vw;
-        margin-left: 5vw;
-        width: 6vw;
-        height: 3vw;
+        font-size: 16px;
+        margin-left: 9%;
+        width: 100px;
+        height: 30px;
         background-color: aquamarine;
         border-radius: 10%;
       }
       .jia {
-        margin-right: 10vw;
-        width: 3vw;
-        height: 2vw;
+        margin-right: 16%;
+        width: 50px;
+        height: 20px;
         background-color: aqua;
         border-radius: 10%;
       }
 
       .jian {
-        width: 3vw;
-        height: 2vw;
+        width: 50px;
+        height: 20px;
         background-color: aqua;
         border-radius: 10%;
       }
