@@ -1,5 +1,5 @@
 {
-  "name": "future",
+  "name": "web",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,6 @@
     "@vitejs/plugin-vue": "^4.2.3",
     "eslint": "^8.39.0",
     "eslint-plugin-vue": "^9.11.0",
-    "vite": "^4.3.5",
-    "vite-plugin-legacy": "^2.1.0"
+    "vite": "^4.3.5"
   }
 }
