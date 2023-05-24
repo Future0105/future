@@ -1,18 +1,14 @@
 <template>
-  <div class="App">
-    <Index></Index>
+  <div class="test wrapper">
+    <h1>娃哈哈</h1>
   </div>
 </template>
 
 <script>
-import Index from './Index.vue'
 export default {
-  components: { Index },
   data() {
     return {}
-  },
-  methods: {},
-  updated() {}
+  }
 }
 </script>
 

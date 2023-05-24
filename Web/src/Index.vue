@@ -1,18 +1,16 @@
 <template>
-  <div class="App">
-    <Index></Index>
+  <div class="index wrapper">
+    <Test></Test>
   </div>
 </template>
 
 <script>
-import Index from './Index.vue'
+import Test from './components/Test.vue'
 export default {
-  components: { Index },
+  components: {Test},
   data() {
     return {}
-  },
-  methods: {},
-  updated() {}
+  }
 }
 </script>
 
