@@ -4,16 +4,8 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import Index from './Index.vue'
-export default {
-  components: { Index },
-  data() {
-    return {}
-  },
-  methods: {},
-  updated() {}
-}
 </script>
 
 <style lang="less" scoped></style>
